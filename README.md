@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Junaid 👋
 
-I'm a passionate Frontend Developer with 2.5 years of experience specializing in building highly scalable, pixel-perfect user interfaces. With a background in Computer Science and a track record of developing high-traffic products, I focus on crafting intuitive, performant, and visually appealing web applications.
+I'm a passionate Frontend Developer with nearly 3 years of experience specializing in building highly scalable, pixel-perfect user interfaces. With a background in Computer Science and a track record of developing high-traffic products, I focus on crafting intuitive, performant, and visually appealing web applications.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate Frontend Developer with 2.5 years of experience specializing in
 
 ## 🛠 Skills & Technologies
 
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3, SASS
+- **Languages**: ReactJS, NextJS, Javascript, Typescript ,NodeJS,ExpressJS, MongoDB, MySQL
 - **Frameworks & Libraries**: React, Next.js, Redux, Tailwind CSS
 - **Tools & Platforms**: Git, GitHub, VS Code, Figma, Vercel
 - **Other Skills**: Performance optimization, Cross-browser compatibility, REST APIs, GraphQL
@@ -26,8 +26,8 @@ I'm a passionate Frontend Developer with 2.5 years of experience specializing in
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/juned-ahmad-profile/))
+- 📧 [Email](mailto:junaid.562000@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio.com) (if you have one)
 
 ## 📝 Latest Projects
