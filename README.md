@@ -26,7 +26,7 @@ I'm a passionate Frontend Developer with nearly 3 years of experience specializi
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/juned-ahmad-profile/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/juned-ahmad-profile/)
 - 📧 [Email](mailto:junaid.562000@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio.com) (if you have one)
 
