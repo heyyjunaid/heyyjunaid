@@ -1,44 +1,39 @@
-# Hi there, I'm Junaid 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm a passionate Frontend Developer with nearly 3 years of experience specializing in building highly scalable, pixel-perfect user interfaces. With a background in Computer Science and a track record of developing high-traffic products, I focus on crafting intuitive, performant, and visually appealing web applications.
+###
 
----
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-## 🚀 About Me
+###
 
-- 🧑‍💻 Frontend Developer with expertise in modern JavaScript frameworks and libraries.
-- 🎨 Passionate about creating pixel-perfect, responsive UI/UX designs.
-- 💡 Proficient in developing high-traffic, scalable, and maintainable web applications.
-- 🎓 Computer Science graduate with a strong foundation in software development principles.
+<h2 align="left">About me</h2>
 
-## 🛠 Skills & Technologies
+###
 
-- **Languages**: ReactJS, NextJS, Javascript, Typescript ,NodeJS,ExpressJS, MongoDB, MySQL
-- **Frameworks & Libraries**: React, Next.js, Redux, Tailwind CSS
-- **Tools & Platforms**: Git, GitHub, VS Code, Figma, Vercel
-- **Other Skills**: Performance optimization, Cross-browser compatibility, REST APIs, GraphQL
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-## 📈 What I’m Working On
+###
 
-- 🔥 Building scalable and performant frontend architectures.
-- 💻 Experimenting with new technologies and design patterns to improve UI performance.
-- 📚 Learning more about web accessibility and enhancing user experience.
+<h2 align="left">I code with</h2>
 
-## 📫 Let's Connect!
+###
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/juned-ahmad-profile/)
-- 📧 [Email](mailto:junaid.562000@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio.com) (if you have one)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-## 📝 Latest Projects
-
-- **[Project Name 1](https://github.com/your-repo)** - A brief description of this project and what makes it special.
-- **[Project Name 2](https://github.com/your-repo)** - A brief description of this project and what makes it unique.
-
-## ⚡ Fun Fact
-
-- When I'm not coding, you can find me exploring new technologies, gaming, or hiking in nature.
-
----
-
-Thanks for stopping by! I’m always open to collaborating on interesting projects or discussing the latest in tech. Feel free to drop a message!
+###
